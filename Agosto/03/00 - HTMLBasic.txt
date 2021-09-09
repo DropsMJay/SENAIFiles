@@ -1,0 +1,14 @@
+<!DOCTYPE html [PUBLIC "-//W3C//DTD XHTML 1.1//EN" "catálogo"]>
+
+<!-- Texto para comentários do código -->
+
+<html [xmlns="http://www.w3.org/1999/xhtml"]>
+	<head>
+		<title>
+		Título para a barra de títulos do programa de navegação
+		</title>
+	</head>
+	<body>
+	Corpo da página (Dados e Tags)
+	</body>
+</html>

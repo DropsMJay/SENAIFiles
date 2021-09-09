@@ -1,0 +1,145 @@
+/* || General setup */
+
+html {
+  font-size: 10px;
+  background-color: #a9a9a9;
+}
+
+/* || typography */
+
+p, input, li {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #2a2a2a;
+}
+
+h1 {
+  font-family: 'Times New Roman', sans-serif;
+  font-size: 60px;
+  text-align: center;
+  color: black;
+}
+
+h2 {
+  font-family: 'Arial', sans-serif;
+  font-size: 35px;
+  text-align: left;
+  color: black;
+}
+
+ul {
+  background: red;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 25px;
+  text-align: left;
+  color: black;
+}
+
+ol {
+  background: green;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 25px;
+  text-align: left;
+  color: black;
+}
+
+p{
+  color: white;
+  background: blue;
+  font-size: 20px;
+}
+
+li {
+  background: blue;
+  font-size: 20px;
+}
+
+li.RedColor{
+  font-family: 'Courier New', Courier, monospace;
+  background: red;
+  font-size: 20px;
+  color: yellow;
+}
+
+li.GreenColor00{
+  font-family: 'Times New Roman', Times, serif;
+  background: green;
+  font-size: 20px;
+  color: red;
+}
+
+li.GreenColor00{
+  font-family: 'Times New Roman', Times, serif;
+  background: green;
+  font-size: 20px;
+  color: red;
+}
+
+li.GreenColor01{
+  font-family: 'Times New Roman', Times, serif;
+  background: green;
+  font-size: 22px;
+  color: red;
+}
+
+li.GreenColor02{
+  font-family: 'Times New Roman', Times, serif;
+  background: green;
+  font-size: 24px;
+  color: red;
+}
+
+li.GreenColor03{
+  font-family: 'Times New Roman', Times, serif;
+  background: green;
+  font-size: 26px;
+  color: red;
+}
+
+li.GreenColor04{
+  font-family: 'Times New Roman', Times, serif;
+  background: green;
+  font-size: 28px;
+  color: red;
+}
+          
+li.GreenColor05{
+  font-family: 'Times New Roman', Times, serif;
+  background: green;
+  font-size: 30px;
+  color: red;
+            }
+          
+li.GreenColor06{
+  font-family: 'Times New Roman', Times, serif;
+  background: green;
+  font-size: 32px;
+  color: red;
+}
+          
+li.GreenColor07{
+  font-family: 'Times New Roman', Times, serif;
+  background: green;
+  font-size: 34px;
+  color: red;
+}
+
+li.GreenColor05{
+  font-family: 'Times New Roman', Times, serif;
+  background: green;
+  font-size: 36px;
+  color: red;
+}
+                
+li.GreenColor08{
+  font-family: 'Times New Roman', Times, serif;
+  background: green;
+  font-size: 38px;
+  color: red;
+}
+                
+li.GreenColor09{
+  font-family: 'Times New Roman', Times, serif;
+  background: green;
+  font-size: 40px;
+  color: red;
+}

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+
+<!--I want to sleeeeeeeeeeeeeeeeeeeeeeeeep-->
+
+<!-- ################################################# -->
+<!-- ################################################# -->
+<!-- ##Site:  Forms (www.forms.com)                 ## -->
+<!-- ##Author:  Marcos "MJay" Paulo                 ## -->
+<!-- ##Date:  02/09/2021 DD/MM/YYYY                 ## -->
+<!-- ##Version: 0.5                                 ## -->
+<!-- ##File:    00 - Forms04.html                   ## -->
+<!-- ################################################# -->
+<!-- ################################################# -->
+
+
+<html [xmlns="http://www.w3.org/1999/xhtml"]>
+	<head>
+		<title>Forms</title>
+		<meta charset = "utf-8"/>
+        <style type="text/css">
+
+        </style>
+	</head>
+		<body>
+            <form action="http://pudim.com.br" method="GET">
+                <p>
+                    <center><b><h1>Marcos's forms</h1></b></center>
+                    <br>
+                    <br>
+                    <br>
+                    <fieldset>
+                        <legend>Personal data:</legend>
+                    <label for="PName" title="Write your name.">
+                        Name:
+                    <input type="Text" name="Name" id="PName">
+                    </label>
+                    <br>
+                    <br>
+                    <label for="PAdress" title="Write your adress.">
+                        Adress:
+                    </label>
+                    <input type="Text" name="Adress" id="PAdress">
+                    <br>
+                    <br>
+                    <label for="City" title="Write the city you living.">
+                        Birthplace:
+                    </label>
+                    <input type="Text" name="City" id="PCity">
+                    <br>
+                    <br>
+                    <label>
+                        Select your State:
+                    </label>
+                    <br>
+                    <select id="PList00" size="5">
+                        <option value="1" selected="selected">São Paulo</option>
+                        <option value="2" selected="selected">Rio de Janeiro</option>
+                        <option value="3" selected="selected">Espírito Santo</option>
+                        <option value="4" selected="selected">Minas</option>
+                        <option value="5" selected="selected">Acre</option>
+                    </select>
+                    </fieldset>
+                    <br>
+                    <br>
+                    <fieldset>
+                        <legend>Professional data:</legend>
+                    <label>
+                        Position's nature:
+                    </label>
+                    <br>
+                    <input type="radio" name="Management" id="PManagement">
+                    Management
+                    <input type="radio" name="Financial" id="PFinancial">
+                    Financial
+                    <input type="radio" name="Reception" id="PReception">
+                    Reception
+                    <input type="radio" name="Administrative" id="PAdministrative">
+                    Administrative
+                    <br>
+                    <br>
+                    <label>
+                        Area of interest:
+                    </label>
+                    <br>
+                    <input type="checkbox" name="Computing" id="PComputing">
+                     Computing
+                    <input type="checkbox" name="Biology" id="PBiology">
+                    Biology
+                    <input type="checkbox" name="Enviroment" id="PEnviroment">
+                    Enviroment
+                    <input type="checkbox" name="History" id="PHistory">
+                    History
+                    <br>
+                    <br>
+                    Mini-curricukum:
+                    <textarea id="TextBox" name="TextBox" rows="4" cols="50">Put something about you here.</textarea>
+                </fieldset>
+                <input type="submit" name="PButton00" id="Send">
+                <input type="reset" name="PButton01" id="Clear">
+            </p>
+            </form>
+		</body>
+</html>
