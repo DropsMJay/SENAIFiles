@@ -4,7 +4,7 @@ All the HTML files using HTML and CSS created until now to create Web pages.
 
 ## How to use
 
-Just use an browser to see the files
+Just use a browser to see the files
 
 ```bash
 I recommend Chrome, Edge and Mozilla
